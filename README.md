@@ -1,4 +1,4 @@
-#Final team task of The Rolling Scopes school. [«Разработка на React»](https://rs.school/react/)\
+Final team task of The Rolling Scopes school. [«Разработка на React»](https://rs.school/react/)
 
 Project management application.
 
