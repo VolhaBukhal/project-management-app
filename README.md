@@ -4,6 +4,8 @@ Project management application.
 
 Deploy: [RSS-trello](https://product-manage-app.netlify.app/)
 
+Layout: [Figma-layout](https://www.figma.com/file/tfIvyraNaVpPCgnXG4WPHk/Rss-trello?node-id=0%3A1)
+
 Used technologies: 
 - [React](https://create-react-app.dev/)
 - [Redux](https://redux.js.org/)
